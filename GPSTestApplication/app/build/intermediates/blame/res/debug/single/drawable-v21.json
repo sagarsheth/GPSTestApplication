@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/tools/GPSTestApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/tools/GPSTestApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/tools/GPSTestApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/tools/GPSTestApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/tools/GPSTestApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/tools/GPSTestApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
